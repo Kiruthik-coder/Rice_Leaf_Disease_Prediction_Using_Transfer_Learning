@@ -11,7 +11,7 @@ Pre-Requisite
 
 ## Architecture
 
-<img src="https://github.com/Kiruthik-coder/Rice_Leaf_Disease_Prediction_Using_Transfer_Learning/assets/76081690/86678ac9-03cc-4394-804a-197e6e5a8350" alt="arch_img" width = "400">
+Will be uploaded....
 
 ## Steps to run
 
